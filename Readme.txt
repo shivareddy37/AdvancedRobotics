@@ -1,0 +1,3 @@
+The project is an advanced robotics class project where a path for 2DOF robotic arm is programed avoiding Obstacles.
+The cartesian palne is first converted to theta plane for the robot and then higher order trajectory planning equations are used to find an optimal path for the robotic arm.
+The documentation folder contains the problem statement and the project report expalning the code and flow in detail.
